@@ -1,7 +1,7 @@
 findAS
 ======
 
-Exploration of Alternative Splicing Events Comparison
+Exploration of Alternative Splicing Events
 
 Install
 -------
